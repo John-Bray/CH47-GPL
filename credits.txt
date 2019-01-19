@@ -1,2 +1,7 @@
-Known contributors include:
-Melchior Franz, Maik Justus (FDM),Syd Adams (3D),AndersG, Josh Babcock, StuartC, John Bray
+Known contributors to this GPL collection include:
+
+Melchior Franz, Maik Justus (FDM),Syd Adams (3D),AndersG, Josh Babcock, (see https://forum.flightgear.org) 
+
+StuartC (see http://www.fguk.eu) 
+
+John Bray (sse: https://forums.x-plane.org/index.php?/profile/518834-johnbray/)
