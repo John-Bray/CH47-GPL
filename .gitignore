@@ -2,3 +2,5 @@
 # ignore macos files,
 *.DS_Store
 Icon?
+*.bak
+
